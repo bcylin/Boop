@@ -5,6 +5,7 @@
   "description": "Turns camelCase to camel-case and vice versa",
   "author": "Christian Heilmann",
   "icon": "table",
+  "bias": -0.1,
   "tags": "camelcase,hyphencase,syntax,codestandards"
 }
 **/
